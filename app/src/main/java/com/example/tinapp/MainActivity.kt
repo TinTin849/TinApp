@@ -16,4 +16,5 @@ class MainActivity : AppCompatActivity() {
         val myText = findViewById<TextView>(R.id.myText)
         myText.text = "testing"
     }
+    //тестовая запись для проверки Git
 }
